@@ -1,5 +1,6 @@
 boost==0.1
 boost-py
+Cmake
 dlib>=19.3.0
 Flask==0.12.1
 Flask-Ask==0.9.7
